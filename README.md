@@ -20,4 +20,4 @@ ____________________
   - grooving tunes, or,  
   - delving into the vast world of books, wisdoms or anything that intrigues me.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" width="100%" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" width="80%" /></p>
