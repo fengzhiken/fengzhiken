@@ -1,5 +1,9 @@
 # <p align="center">Hi 👋, I am fengzhiken!</p>
 
+Just a being, lost in the realm of bits and bytes, trying to figure out the best combination of them to make it work.
+
+- 📫 Find me on [Discord](https://discord.com/app), [Twitter](https://twitter.com/fengzhiken) under the same handle name.
+
 <pre>
 ____________________ 
   < call me Ken >
@@ -9,15 +13,10 @@ ____________________
             (__)\       )\/\
                 ||----w |
                 ||     ||
-</pre>
-
-
-  Most of the time, you can find me in the realm of bits and bytes trying to figure out the best combination of them to make it work.
-  
-  At other times, I get lost into the world of fantasy through,  
-    
-  - animes(donghuas), movies, mangas(manhuas, manhwas),  
-  - grooving tunes, or,  
-  - delving into the vast world of books, wisdoms or anything that intrigues me.
+</pre> 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" width="80%" /></p>
+
+"Don't Panic."  
+  
+~ The Hitchhicker's Guide To The Galaxy
